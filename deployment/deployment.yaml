@@ -18,4 +18,3 @@ spec:
       containers:
         - image: kiran2361993/kubegame:v2
           name: kubegame
-          
